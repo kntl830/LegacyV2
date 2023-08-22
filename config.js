@@ -38,8 +38,8 @@ global.logotime = 'https://telegra.ph/file/8e9bf0c5db8ec095a85bc.jpg' //Jan Diub
 global.sig = 'https://instagram.com/khoirul36_'
 global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
 global.sgh = 'https://github.com/Carisendiri:v'
-global.sgc = 'https://chat.whatsapp.com/KOxDMDVKO8h9pS8abkaax6'
-global.swa = 'wa.me/6287753812675'
+global.sgc = 'https://chat.whatsapp.com/KOxDMDVKO8hpS8abkaax6'
+global.swa = 'wa.me/601161755627'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 global.pdana = '-'
@@ -50,17 +50,17 @@ global.ppulsa2 = '-'
 global.psaweria = 'https://bit.ly/3eggcxd'
 /*InfoBot*/
 global.nomorbot = '-'
-global.nomorown = '6287753812675'
+global.nomorown = '601161755627'
 global.namebot = 'Legacy Bot'
-global.nameown = 'KhrlMstfa'
+global.nameown = '¥90000'
 global.rul = 'https://telegra.ph/file/0a4fa7e5726f921ac52b7.jpg' //Jangan Diapus Ya Kids Nanti Eror Nangis Haha
 /*StaffBot*/
 global.owner = [
-  ['6287753812675', 'Rull', 'true']
+  ['601161755627', '777', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = [601161755627] // Want some help?
+global.prems = [601161755627] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*Apikey*/
@@ -123,8 +123,8 @@ global.wmvip = 'Scan Kode Qr Diatas Dan Jangan Lupa Kirim Bukti Pembayaran Ke Ow
 global.botdate = `⻝ Tanggal: ${week} ${date}\n⻝ Waktu: ${wktuwib}`
 global.bottime = `⻝ W A K T U : ${wktuwib}`
 global.titlebot = `LegacyBot | ʙʏ ${global.nameown}`
-global.author = 'KhrlMstfa' 
-global.packname = 'By RullZY'
+global.author = 'Buto' 
+global.packname = 'By RasGembel'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Oktober 21 2022' //Ganti Ultah Lu Disini
 
@@ -140,10 +140,10 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya RullBOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *KhrlMstfa✓* Saya di rilis pada tanggal\n🗓 ️_23/11/2022_'
 global.intro = 'https://telegra.ph/file/ac799c2925c618939e5a9.jpg'
 /*BioOwn*/
-global.nameowner = 'Rull?'
+global.nameowner = 'Ras?'
 global.umurowner = '16'
-global.asalowner = 'Jatim, Trenggalek'
-global.nomorowner = 'wa.me/6287753812675'
+global.asalowner = 'Pasir Gudang, Johor'
+global.nomorowner = 'wa.me/601124161623'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*Text*/
